@@ -71,9 +71,11 @@ I strive to provide excellent support, and your feedback is invaluable in improv
 
 == Screenshots ==
 
-1. **Customizable login page**: Shows the modern tabbed Sign In & Sign Up layout.
-2. **Admin settings page**: Configure the login page appearance via the WordPress admin dashboard.
-3. **Example login page**: Displays a login page with a custom logo, background image, and colors.
+1. **Admin settings page**: Configure the login page appearance via the WordPress admin dashboard.
+![WP SmartAuth Admin settings page Screenshot](assets/screenshots/screenshot-1.png)
+2. **Example login page**: Displays a login page with a custom logo, background image, and colors.
+![WP SmartAuth login page Screenshot](assets/screenshots/screenshot-2.png)
+
 
 == Changelog ==
 
