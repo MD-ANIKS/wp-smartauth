@@ -1,0 +1,103 @@
+body.login {
+  background-image: url('../images/background.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body.login::after {
+content: '';
+display: block;
+background: black;
+position: absolute;
+top: 0; 
+left: 0;
+width: 100%;
+height: 100vh;
+z-index: 5;
+}
+
+body.login #login {
+  position: relative;
+  z-index: 999;
+  background: rgba(110, 110, 110, 0.178);
+  box-shadow: 4px 4px 100px 40px #00000042;
+  padding: 0 0 24px;
+  top: 150px;
+}
+
+body.login  #login #loginform{
+  background: transparent;
+  border: none;
+  margin-top: 0;
+}
+
+body.login #login h1 a{
+  background-position: center;
+  background-size: contain;
+  margin: 0 auto 0;
+}
+
+body.login #login h1 a:focus{
+  color: transparent;
+  box-shadow: none;
+}
+
+body.login #login #loginform label{
+  color: #7e8287;
+  border-left: 3px solid #7e8287;
+  padding-left: 5px;
+  margin-bottom: 10px;  
+}
+
+body.login #login #loginform label:last-child{
+  border: none;
+  padding-left:  0;
+}
+
+body.login #login #loginform input{
+  background: transparent;
+  color: #fff;
+  border-color: #7e8287;
+  font-size: 16px;
+}
+
+input[type='submit'] {
+background: #7e8287;
+color: #fff;
+border: none;
+font-size: 14px;
+transition: .5s ease;
+width: 100%;
+margin-top: 8px;
+display: block;
+transition: 0.5s ease;
+}
+
+body.login #login #loginform input[type='submit']:hover {
+border-color: #7e8287;
+background: #7e8287;
+}
+
+body.login #login #loginform input:focus,
+body.login #login #loginform select:focus,
+body.login #login #loginform textarea:focus {
+  border-color: #7e8287;
+  box-shadow: 0 0 0 1px #7e8287;
+}
+
+.login #nav {
+margin: 0px !important;
+display: inline-block;
+}
+
+.login #backtoblog {
+  margin: 0;
+  float: right;
+  text-align: right;
+  display: inline-block;
+}
+
+body.login #login h1 a {
+  background-image: url('../images/logo.png');
+}
