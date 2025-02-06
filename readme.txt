@@ -72,9 +72,9 @@ I strive to provide excellent support, and your feedback is invaluable in improv
 == Screenshots ==
 
 1. **Admin settings page**: Configure the login page appearance via the WordPress admin dashboard.
-![WP SmartAuth Admin settings page Screenshot](assets/screenshots/screenshot_1.png)
+![WP SmartAuth Admin settings page Screenshot](screenshots/screenshot_1.png)
 2. **Example login page**: Displays a login page with a custom logo, background image, and colors.
-![WP SmartAuth login page Screenshot](assets/screenshots/screenshot_2.png)
+![WP SmartAuth login page Screenshot](screenshots/screenshot_2.png)
 
 
 == Changelog ==
