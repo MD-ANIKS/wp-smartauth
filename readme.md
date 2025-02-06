@@ -30,9 +30,6 @@ This plugin is perfect for website owners who want to create a unique and brande
 - Adjustable background brightness for better readability.
 - Lightweight and optimized for performance.
 
-= Demo =
-You can see the plugin in action on the [GitHub page](https://github.com/MD-ANIKS).
-
 == Installation ==
 
 1. Upload the `wp-smartauth` folder to the `/wp-content/plugins/` directory or install the plugin via the WordPress Plugins screen directly.
@@ -72,8 +69,11 @@ I strive to provide excellent support, and your feedback is invaluable in improv
 == Screenshots ==
 
 1. **Admin settings page**: Configure the login page appearance via the WordPress admin dashboard.
+   
 ![WP SmartAuth Admin settings page Screenshot](screenshots/screenshot_1.png)
-2. **Example login page**: Displays a login page with a custom logo, background image, and colors.
+
+3. **Example login page**: Displays a login page with a custom logo, background image, and colors.
+   
 ![WP SmartAuth login page Screenshot](screenshots/screenshot_2.png)
 
 
@@ -89,7 +89,6 @@ First release of the plugin.
 
 == Donations ==
 
-If you love this plugin and want to support its development, consider buying me a coffee!  
-**[Buy Me a Coffee](https://www.buymeacoffee.com/wpinnovator)**  
+If you love this plugin and want to support its development, consider **[Buying Me a Coffee](https://www.buymeacoffee.com/wpinnovator)**!
 
 Your support is greatly appreciated! 😊
